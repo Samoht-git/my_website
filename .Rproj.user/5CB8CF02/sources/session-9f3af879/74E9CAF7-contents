@@ -1,0 +1,11 @@
+blockquote {
+  font-style: italic
+}
+p {
+    text-align: center;
+}
+h1 {
+    text-align
+}
+
+

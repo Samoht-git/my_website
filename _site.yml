@@ -1,0 +1,16 @@
+name: "my-website"
+output_dir: "site_files"
+navbar:
+  title: "Portfolio"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+  right:
+    - icon: fa-brands fa-linkedin
+      href: https://www.linkedin.com/in/thomas-elzinga-9804463b1
+output:
+  html_document:
+    theme: flatly
+    css: styles.css
